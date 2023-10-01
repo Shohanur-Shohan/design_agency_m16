@@ -1,6 +1,6 @@
 import Footer from "@/components/Footer";
 import NewsLetter from "@/components/NewsLetter";
-import Testimonial from "@/components/testimonials/testimonial";
+import Testimonial from "@/components/testimonial/Testimonials";
 
 
 const page = () => {
